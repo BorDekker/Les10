@@ -1,0 +1,35 @@
+body{
+    background-color: blueviolet;
+    background-image: url(100x100.gif);
+}
+
+h1{
+    background-color: cornflowerblue;
+    color: hotpink;
+}
+
+.a{
+    background-color: goldenrod;
+    color: greenyellow;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    border: indigo 20px solid;
+    margin: 20px;
+} 
+
+.b{
+    position: absolute;
+    left: 800px;
+    top: 300px;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    border:darkblue 20px solid;
+    margin: 20px;
+    background-color: crimson;
+    color: yellow;
+}
